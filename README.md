@@ -1,10 +1,13 @@
 # web3-learning-resources
 
 ## FREE Courses 
+- [Solidity By Example](https://solidity-by-example.org/)
 - [Cyfrin Updaft](https://updraft.cyfrin.io/)
 - [Web3 University](https://www.web3.university/)
+- [Alchemy University](https://www.alchemy.com/university/courses/)
 - [Learn Web3](https://learnweb3.io/)
 - [Crypto Zombies](https://cryptozombies.io/)
+- [Speed Run Ethereum](https://speedrunethereum.com/)
 - [Meta School](https://metaschool.so/)
 - [Consensys Academy](https://courses.consensys.net/collections) some free, some payed
 - [Learn Crypto](https://learncrypto.com/)
