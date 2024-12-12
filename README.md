@@ -6,17 +6,20 @@
 - [Web3 University](https://www.web3.university/)
 - [Alchemy University](https://www.alchemy.com/university/courses/)
 - [Learn Web3](https://learnweb3.io/)
-- [Crypto Zombies](https://cryptozombies.io/)
 - [Speed Run Ethereum](https://speedrunethereum.com/)
 - [Meta School](https://metaschool.so/)
 - [Consensys Academy](https://courses.consensys.net/collections) some free, some payed
 - [Learn Crypto](https://learncrypto.com/)
 - [CryptoHack](https://cryptohack.org/) cryptography courses
+- [Quest Book](https://learn.questbook.xyz/)
 
 ## PAYED Courses
 - [Moralis Academy](https://academy.moralis.io/)
 - [Blockchain Council](https://www.blockchain-council.org/)
 
 ## LEARN BY PLAYING
+- [Crypto Zombies](https://cryptozombies.io/)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Bit Degree](https://www.bitdegree.org/)
+- [Node Guardians](https://nodeguardians.io/)
+- [Capture the Ether](https://capturetheether.com/)
