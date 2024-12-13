@@ -27,5 +27,6 @@
 - [Capture the Ether](https://capturetheether.com/)
 
 ## RESOURCES
+- [The Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 - [CypherPunks](https://cypherpunks-core.github.io/ethereumbook/)
