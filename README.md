@@ -12,10 +12,12 @@
 - [Learn Crypto](https://learncrypto.com/)
 - [CryptoHack](https://cryptohack.org/) cryptography courses
 - [Quest Book](https://learn.questbook.xyz/)
+- [
 
 ## PAYED Courses
 - [Moralis Academy](https://academy.moralis.io/)
 - [Blockchain Council](https://www.blockchain-council.org/)
+- [Eat The Block](https://eattheblocks.com/) some free
 
 ## LEARN BY PLAYING
 - [Crypto Zombies](https://cryptozombies.io/)
@@ -23,3 +25,7 @@
 - [Bit Degree](https://www.bitdegree.org/)
 - [Node Guardians](https://nodeguardians.io/)
 - [Capture the Ether](https://capturetheether.com/)
+
+## RESOURCES
+- [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
+- [CypherPunks](https://cypherpunks-core.github.io/ethereumbook/)
