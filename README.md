@@ -18,6 +18,7 @@
 - [Moralis Academy](https://academy.moralis.io/)
 - [Blockchain Council](https://www.blockchain-council.org/)
 - [Eat The Block](https://eattheblocks.com/) some free
+- [Jonny Time](https://johnnytime.xyz/)
 
 ## LEARN BY PLAYING
 - [Crypto Zombies](https://cryptozombies.io/)
