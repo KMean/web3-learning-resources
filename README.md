@@ -12,7 +12,7 @@
 - [Learn Crypto](https://learncrypto.com/)
 - [CryptoHack](https://cryptohack.org/) cryptography courses
 - [Quest Book](https://learn.questbook.xyz/)
-- [
+- [Ethereum Blockchain Developer](https://ethereum-blockchain-developer.com/)
 
 ## PAYED Courses
 - [Moralis Academy](https://academy.moralis.io/)
