@@ -28,5 +28,6 @@
 
 ## RESOURCES
 - [The Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [Quick Node Resources](https://www.quicknode.com/guides/welcome)
 - [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 - [CypherPunks](https://cypherpunks-core.github.io/ethereumbook/)
