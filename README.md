@@ -32,3 +32,7 @@
 - [Quick Node Resources](https://www.quicknode.com/guides/welcome)
 - [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 - [CypherPunks](https://cypherpunks-core.github.io/ethereumbook/)
+
+
+## ARTICLES
+- [Impersonating Accounts With Hardhat](https://medium.com/coinmonks/impersonating-accounts-with-hardhat-21212c94dcec)
