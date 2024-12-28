@@ -26,7 +26,7 @@
 - [Bit Degree](https://www.bitdegree.org/)
 - [Node Guardians](https://nodeguardians.io/)
 - [Capture the Ether](https://capturetheether.com/)
-- [DAMN VULNERABLE DEFI](https://www.damnvulnerabledefi.xyz/)
+- [Damn Vulnerable DEFI](https://www.damnvulnerabledefi.xyz/)
 
 ## RESOURCES
 - [The Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
