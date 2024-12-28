@@ -20,19 +20,19 @@
 - [Eat The Block](https://eattheblocks.com/) some free
 - [Johnny Time](https://johnnytime.xyz/)
 
-## LEARN BY PLAYING
+## LEARN BY PLAYING & CHALLANGES
 - [Crypto Zombies](https://cryptozombies.io/)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Bit Degree](https://www.bitdegree.org/)
 - [Node Guardians](https://nodeguardians.io/)
 - [Capture the Ether](https://capturetheether.com/)
+- [DAMN VULNERABLE DEFI](https://www.damnvulnerabledefi.xyz/)
 
 ## RESOURCES
 - [The Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [Quick Node Resources](https://www.quicknode.com/guides/welcome)
 - [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 - [CypherPunks](https://cypherpunks-core.github.io/ethereumbook/)
-
-
+ 
 ## ARTICLES
 - [Impersonating Accounts With Hardhat](https://medium.com/coinmonks/impersonating-accounts-with-hardhat-21212c94dcec)
