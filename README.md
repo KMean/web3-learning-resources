@@ -47,3 +47,4 @@
 - [Impersonating Accounts With Hardhat](https://medium.com/coinmonks/impersonating-accounts-with-hardhat-21212c94dcec)
 - [Program the Blockchain](https://programtheblockchain.com/)
 - [Noxx Sub Stack](https://noxx.substack.com/p)
+- [The Easy Way To Quit (Concrete) Testing](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
