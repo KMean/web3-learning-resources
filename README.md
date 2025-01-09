@@ -49,3 +49,4 @@
 - [Noxx Sub Stack](https://noxx.substack.com/p)
 - [The Easy Way To Quit (Concrete) Testing](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
 - [Bitmaps](https://soliditydeveloper.com/bitmaps)
+- [using-bitmaps for efficient solidity smart contracts](https://hiddentao.com/archives/2018/12/10/using-bitmaps-for-efficient-solidity-smart-contracts)
