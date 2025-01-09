@@ -48,3 +48,4 @@
 - [Program the Blockchain](https://programtheblockchain.com/)
 - [Noxx Sub Stack](https://noxx.substack.com/p)
 - [The Easy Way To Quit (Concrete) Testing](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
+- [Bitmaps](https://soliditydeveloper.com/bitmaps)
