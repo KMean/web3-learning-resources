@@ -50,3 +50,4 @@
 - [The Easy Way To Quit (Concrete) Testing](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
 - [Bitmaps](https://soliditydeveloper.com/bitmaps)
 - [using bitmaps for efficient solidity smart contracts](https://hiddentao.com/archives/2018/12/10/using-bitmaps-for-efficient-solidity-smart-contracts)
+- [Bitwise Operators - Cyfrin](https://www.cyfrin.io/glossary/bitwise-operators-solidity-code-example)
