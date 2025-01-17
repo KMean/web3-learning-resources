@@ -53,3 +53,4 @@
 - [Bitmaps](https://soliditydeveloper.com/bitmaps)
 - [using bitmaps for efficient solidity smart contracts](https://hiddentao.com/archives/2018/12/10/using-bitmaps-for-efficient-solidity-smart-contracts)
 - [Bitwise Operators - Cyfrin](https://www.cyfrin.io/glossary/bitwise-operators-solidity-code-example)
+- [EVM Memory](https://favoriteblockchain.medium.com/evm-memory-9f393ca0d635)
