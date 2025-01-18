@@ -45,6 +45,7 @@
 - [Ivan On Thech](https://www.youtube.com/@IvanOnTech)
 - [Jordan McKinney](https://www.youtube.com/@jordanmmck)
 - [Johnny Time](https://www.youtube.com/@JohnnyTime)
+- [Owen Thurm](https://www.youtube.com/@0xOwenThurm)
 ## ARTICLES & BLOGS
 - [Impersonating Accounts With Hardhat](https://medium.com/coinmonks/impersonating-accounts-with-hardhat-21212c94dcec)
 - [Program the Blockchain](https://programtheblockchain.com/)
