@@ -59,4 +59,4 @@
 - [Getting Deep into the EVM - How Ethereum Works](https://medium.com/@fabrisde167/getting-deep-into-evm-how-ethereum-works-backstage-ea70203e3124)
 
 ## TALKS
--[Demystifying EVM Opcodes](https://youtu.be/_tcyI_lNvo0?si=0Fn26iriYkt_Nb1S)
+- [Demystifying EVM Opcodes](https://youtu.be/_tcyI_lNvo0?si=0Fn26iriYkt_Nb1S)
