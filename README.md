@@ -61,3 +61,4 @@
 
 ## TALKS
 - [Demystifying EVM Opcodes](https://youtu.be/_tcyI_lNvo0?si=0Fn26iriYkt_Nb1S)
+- [ETH Global](https://www.youtube.com/@ETHGlobal)
