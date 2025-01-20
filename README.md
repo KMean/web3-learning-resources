@@ -58,6 +58,7 @@
 - [Bitwise Operators - Cyfrin](https://www.cyfrin.io/glossary/bitwise-operators-solidity-code-example)
 - [EVM Memory](https://favoriteblockchain.medium.com/evm-memory-9f393ca0d635)
 - [Getting Deep into the EVM - How Ethereum Works](https://medium.com/@fabrisde167/getting-deep-into-evm-how-ethereum-works-backstage-ea70203e3124)
+- [Decimals In Solidity - A Fixed Point of View](https://coinsbench.com/decimals-in-solidity-a-fixed-point-of-view-df1a8704cf04)
 
 ## TALKS
 - [Demystifying EVM Opcodes](https://youtu.be/_tcyI_lNvo0?si=0Fn26iriYkt_Nb1S)
