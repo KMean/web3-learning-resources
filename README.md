@@ -36,9 +36,10 @@
 - [Quick Node Resources](https://www.quicknode.com/guides/welcome)
 - [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 - [CypherPunks](https://cypherpunks-core.github.io/ethereumbook/)
-
+- [ETH BUILD](https://eth.build/)
 ## YOUTUBE CHANNELS
 - [Patrick Collins](https://www.youtube.com/@PatrickAlphaC)
+- [Austin Griffith](https://www.youtube.com/@austingriffith3550)
 - [Smart Contract Programmer](https://www.youtube.com/@smartcontractprogrammer)
 - [Jesper Kristensen](https://www.youtube.com/@cryptojesperk)
 - [Whiteboard Crypto](https://www.youtube.com/@WhiteboardCrypto)
