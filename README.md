@@ -30,6 +30,7 @@
 - [Damn Vulnerable DEFI](https://www.damnvulnerabledefi.xyz/)
 
 ## RESOURCES
+- [Ethereum Developers Docs](https://ethereum.org/en/developers/docs/)
 - [Learn EVM](https://learnevm.com/)
 - [Blockchain Roadmap](https://roadmap.sh/blockchain)
 - [The Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
