@@ -39,6 +39,7 @@
 - [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 - [CypherPunks](https://cypherpunks-core.github.io/ethereumbook/)
 - [ETH BUILD](https://eth.build/)
+- [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 ## YOUTUBE CHANNELS
 - [Patrick Collins](https://www.youtube.com/@PatrickAlphaC)
 - [Austin Griffith](https://www.youtube.com/@austingriffith3550)
