@@ -64,6 +64,7 @@
 - [Getting Deep into the EVM - How Ethereum Works](https://medium.com/@fabrisde167/getting-deep-into-evm-how-ethereum-works-backstage-ea70203e3124)
 - [Decimals In Solidity - A Fixed Point of View](https://coinsbench.com/decimals-in-solidity-a-fixed-point-of-view-df1a8704cf04)
 - [Understanding Buffers in Javascript](https://www.freecodecamp.org/news/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8/)
+- [forge coverage overview](https://medium.com/@rohanzarathustra/forge-coverage-overview-744d967e112f)
 
 ## TALKS
 - [Demystifying EVM Opcodes](https://youtu.be/_tcyI_lNvo0?si=0Fn26iriYkt_Nb1S)
