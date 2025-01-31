@@ -40,7 +40,7 @@
 - [CypherPunks](https://cypherpunks-core.github.io/ethereumbook/)
 - [ETH BUILD](https://eth.build/)
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-- [Layiut of state variables in storage](https://solidity-fr.readthedocs.io/fr/latest/internals/layout_in_storage.html)
+- [Layout of state variables in storage](https://solidity-fr.readthedocs.io/fr/latest/internals/layout_in_storage.html)
 ## YOUTUBE CHANNELS
 - [Patrick Collins](https://www.youtube.com/@PatrickAlphaC)
 - [Austin Griffith](https://www.youtube.com/@austingriffith3550)
